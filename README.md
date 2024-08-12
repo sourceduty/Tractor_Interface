@@ -98,6 +98,8 @@ Or, if you have a custom terminal name, please provide it.
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Farm Field](https://chat.openai.com/g/g-0SdwLVQqg-farm-field)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
