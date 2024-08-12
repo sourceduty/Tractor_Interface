@@ -38,6 +38,8 @@ JCB CommandPlus
 JCB LiveLink
 ```
 
+Or, if you have a custom terminal name, please provide it.
+
 #
 
 ![Tractor Computers](https://github.com/user-attachments/assets/8a223b3b-225f-411d-b98b-48b8ebceaf2a)
