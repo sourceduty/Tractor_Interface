@@ -13,6 +13,8 @@ Overall, this custom GPT serves as a virtual assistant for agricultural professi
 #
 ### Included Terminals
 
+Specify the brand and model of the tractor terminal you would like to simulate.
+
 ```
 John Deere GreenStar
 John Deere CommandCenter
