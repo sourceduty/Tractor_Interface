@@ -1,6 +1,6 @@
 ![Tractor Interface](https://github.com/user-attachments/assets/d1189815-c1f5-46f3-a399-0d1ef5acccb8)
 
-> Simulate the terminal for any farm tractor brand.
+> Simulate the terminal for any farm tractor brand. Development tool.
 
 #
 
