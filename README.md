@@ -95,6 +95,10 @@ Or, if you have a custom terminal name, please provide it.
 ![Tractor Computers](https://github.com/user-attachments/assets/8a223b3b-225f-411d-b98b-48b8ebceaf2a)
 
 #
+
+> Alex: "*I might program and modify agricultural terminals.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
