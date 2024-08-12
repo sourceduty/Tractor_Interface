@@ -105,5 +105,9 @@ Or, if you have a custom terminal name, please provide it.
 <br>
 [Farm Field](https://chat.openai.com/g/g-0SdwLVQqg-farm-field)
 
+#
+
+![Autonomous Tractor](https://github.com/user-attachments/assets/22cad2ae-84b9-428d-a9c5-fe229e5df340)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
