@@ -43,6 +43,54 @@ JCB LiveLink
 Or, if you have a custom terminal name, please provide it.
 
 #
+### GreenStar Terminal and Command Center API Development
+
+```
+# GreenStar Terminal API Setup
+
+1. Access the Settings Menu:
+   - Navigate to the main menu on the GreenStar display.
+   - Select "Settings".
+
+2. Select Communication Settings:
+   - Within the settings menu, find and select "Communication" or "ISOBUS Settings".
+   - Look for "API Access" or "Data Transmission" options.
+
+3. Enable API Access:
+   - Toggle the API Access option to "ON".
+   - Set up the required authentication details (API key, Username, and Password) as provided by your backend service.
+
+4. Configure Data Points:
+   - Select which data points you want to allow access through the API (e.g., GPS data, engine performance metrics).
+   - Adjust permissions for read/write access as required.
+
+5. Save and Confirm:
+   - After configuring the settings, ensure you save your changes.
+   - Test the connection with your backend service to verify the API is working correctly.
+
+# CommandCenter Terminal API Setup
+
+1. Access the Main Menu:
+   - From the main display, press the "Menu" button.
+
+2. Go to Communication Settings:
+   - Navigate to the "Settings" menu.
+   - Select "Data Management" or "Communication Settings".
+
+3. Enable API Integration:
+   - Find the "API Integration" option and enable it.
+   - Input the necessary credentials for your API connection.
+
+4. Set Data Preferences:
+   - Choose the specific data types or parameters you wish to expose via the API.
+   - Set permissions for each data type as necessary.
+
+5. Save and Exit:
+   - Confirm the settings and save them.
+   - Ensure that the API is functioning by performing a test with your backend system.
+```
+
+#
 
 ![Tractor Computers](https://github.com/user-attachments/assets/8a223b3b-225f-411d-b98b-48b8ebceaf2a)
 
