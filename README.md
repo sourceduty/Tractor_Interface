@@ -104,6 +104,8 @@ Or, if you have a custom terminal name, please provide it.
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Farm Field](https://chat.openai.com/g/g-0SdwLVQqg-farm-field)
+<br>
+[Computational Agribusiness](https://github.com/sourceduty/Computational_Agribusiness)
 
 #
 
