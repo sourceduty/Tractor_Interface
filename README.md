@@ -106,6 +106,8 @@ Or, if you have a custom terminal name, please provide it.
 [Farm Field](https://chat.openai.com/g/g-0SdwLVQqg-farm-field)
 <br>
 [Computational Agribusiness](https://github.com/sourceduty/Computational_Agribusiness)
+<br>
+[Farm Waste](https://github.com/sourceduty/Farm_Waste)
 
 #
 
