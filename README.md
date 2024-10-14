@@ -1,4 +1,4 @@
-![Tractor Interface](https://github.com/user-attachments/assets/d1189815-c1f5-46f3-a399-0d1ef5acccb8)
+![Concept Tractor Design](https://github.com/user-attachments/assets/f9fa7e16-2b0a-4ab0-865a-062f29753ae0)
 
 > Simulate the terminal for any farm tractor brand. Development tool.
 
