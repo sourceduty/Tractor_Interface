@@ -1,4 +1,4 @@
-![Farming](https://github.com/user-attachments/assets/b9193823-0293-434b-bdc4-75f67491efb5)
+![Tractor Computers](https://github.com/user-attachments/assets/8a223b3b-225f-411d-b98b-48b8ebceaf2a)
 
 > Simulate the terminal for any farm tractor brand. Development tool.
 
@@ -91,9 +91,7 @@ Or, if you have a custom terminal name, please provide it.
 ```
 
 #
-
-![Tractor Computers](https://github.com/user-attachments/assets/8a223b3b-225f-411d-b98b-48b8ebceaf2a)
-
+![Farming](https://github.com/user-attachments/assets/b9193823-0293-434b-bdc4-75f67491efb5)
 #
 
 > Alex: "*I might program and modify agricultural terminals.*"
