@@ -93,7 +93,9 @@ Or, if you have a custom terminal name, please provide it.
 #
 ![Farming](https://github.com/user-attachments/assets/b9193823-0293-434b-bdc4-75f67491efb5)
 #
+![Tractor Sports](https://github.com/user-attachments/assets/3c7c0761-865e-4851-aa20-0b3ec03d2e73)
 
+#
 > Alex: "*I might program and modify agricultural terminals.*"
 
 #
