@@ -123,6 +123,8 @@ Over-the-air (OTA) updates further revolutionize machine maintenance by enabling
 [Farm Waste](https://github.com/sourceduty/Farm_Waste)
 <br>
 [Mechanical Design](https://github.com/sourceduty/Mechanical_Design)
+<br>
+[Mechanical Sim](https://github.com/sourceduty/Mechanical_Simulator)
 
 #
 
