@@ -96,6 +96,13 @@ Or, if you have a custom terminal name, please provide it.
 ![Tractor Sports](https://github.com/user-attachments/assets/3c7c0761-865e-4851-aa20-0b3ec03d2e73)
 
 #
+### E-PTO
+
+![PTO](https://github.com/user-attachments/assets/8b013636-e5f8-42c0-8f53-06a345e2e972)
+
+In electric farm tractors, the Power Take-Off (PTO) has evolved to harness electric power from the tractor's battery or motor system, offering greater efficiency and control compared to traditional mechanical PTOs. These electric PTOs enable seamless operation of implements such as mowers, balers, and tillers, often with more precise power modulation and reduced energy loss. Additionally, electric tractors eliminate the need for complex mechanical linkages, simplifying maintenance and enhancing durability. This advancement not only improves performance but also aligns with sustainability goals, as electric tractors operate quietly and produce no direct emissions while powering a wide range of agricultural equipment.
+
+#
 > Alex: "*I might program and modify agricultural terminals.*"
 
 #
