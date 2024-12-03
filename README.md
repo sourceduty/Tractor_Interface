@@ -121,6 +121,8 @@ Over-the-air (OTA) updates further revolutionize machine maintenance by enabling
 [Computational Agribusiness](https://github.com/sourceduty/Computational_Agribusiness)
 <br>
 [Farm Waste](https://github.com/sourceduty/Farm_Waste)
+<br>
+[Mechanical Design](https://github.com/sourceduty/Mechanical_Design)
 
 #
 
